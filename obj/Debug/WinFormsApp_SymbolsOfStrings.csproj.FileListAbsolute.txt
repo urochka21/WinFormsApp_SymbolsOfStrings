@@ -1,0 +1,10 @@
+C:\Users\Сергей\Desktop\WinFormsApp_SymbolsOfStrings\WinFormsApp_SymbolsOfStrings\bin\Debug\WinFormsApp_SymbolsOfStrings.exe.config
+C:\Users\Сергей\Desktop\WinFormsApp_SymbolsOfStrings\WinFormsApp_SymbolsOfStrings\bin\Debug\WinFormsApp_SymbolsOfStrings.exe
+C:\Users\Сергей\Desktop\WinFormsApp_SymbolsOfStrings\WinFormsApp_SymbolsOfStrings\bin\Debug\WinFormsApp_SymbolsOfStrings.pdb
+C:\Users\Сергей\Desktop\WinFormsApp_SymbolsOfStrings\WinFormsApp_SymbolsOfStrings\obj\Debug\WinFormsApp_SymbolsOfStrings.csprojAssemblyReference.cache
+C:\Users\Сергей\Desktop\WinFormsApp_SymbolsOfStrings\WinFormsApp_SymbolsOfStrings\obj\Debug\WinFormsApp_SymbolsOfStrings.Properties.Resources.resources
+C:\Users\Сергей\Desktop\WinFormsApp_SymbolsOfStrings\WinFormsApp_SymbolsOfStrings\obj\Debug\WinFormsApp_SymbolsOfStrings.csproj.GenerateResource.cache
+C:\Users\Сергей\Desktop\WinFormsApp_SymbolsOfStrings\WinFormsApp_SymbolsOfStrings\obj\Debug\WinFormsApp_SymbolsOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\WinFormsApp_SymbolsOfStrings\WinFormsApp_SymbolsOfStrings\obj\Debug\WinFormsApp_SymbolsOfStrings.exe
+C:\Users\Сергей\Desktop\WinFormsApp_SymbolsOfStrings\WinFormsApp_SymbolsOfStrings\obj\Debug\WinFormsApp_SymbolsOfStrings.pdb
+C:\Users\Сергей\Desktop\WinFormsApp_SymbolsOfStrings\WinFormsApp_SymbolsOfStrings\obj\Debug\WinFormsApp_SymbolsOfStrings.form_Main.resources
